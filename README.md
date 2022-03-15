@@ -4,7 +4,6 @@ This repository houses all dependencies used to predict the likelihood of heart 
 ## Files and Objects in the repository
 1. Dataset 
 2. Notebook 
-3. Model
 ## Packages Used 
 1. Pandas (1.3.5)
 2. numpy (1.19.5)
